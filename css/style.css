@@ -1,0 +1,45 @@
+.bg-top
+{
+    background-color: #17A589;
+    color: aliceblue;
+    font-weight: bold;
+}
+.my-text
+{
+    color: blueviolet;
+    font-size: 45px;
+    font-family: Bell MT;
+    font-weight: bold;
+}
+.bg-nav
+{
+    background-color: #17A589;
+}
+.nav-item:hover
+{
+    background-color: aquamarine;
+    border-radius: 5px;
+
+}
+.nav-data
+{
+    color: #b1e21c;
+    font-size: 18px;
+    font-weight: bold;
+}
+.t1
+{
+    color: #17A589;
+    font-size: 55px;
+    text-shadow: 3px 4px 5px;
+}
+.t2
+{
+    color: #f09d18;
+    font-size: 55px;
+    text-shadow: 2px 3px 4px;
+}
+.data
+{
+    font-size: 18px;
+}
